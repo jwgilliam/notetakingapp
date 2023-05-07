@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "title": "test1",
+      "text": "asdf",
+      "date": 1683488480466,
+      "id": 1
+    },
+    {
+      "title": "test2",
+      "text": "asdfasdf",
+      "date": 1683488480463,
+      "id": 2
+    },
+    {
+      "title": "",
+      "text": "",
+      "date": 1683496226172,
+      "id": 3
+    }
+  ]
+}
